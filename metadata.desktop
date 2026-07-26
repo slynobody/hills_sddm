@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=int_goo-gone
+Description=Theme
+Author=slynobody
+Copyright=(c) 2026, slynobody
+License=CC BY-NC-ND 4.0
+Type=sddm-theme
+Version=0.3.1
+Website=https://github.com/slynobody
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=https://github.com/slynobody
+Theme-Id=int_goo-gone
+Theme-API=2.0
+QtVersion=6
